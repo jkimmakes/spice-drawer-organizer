@@ -12,6 +12,21 @@ Open the drawer, find the cumin, carry on cooking.
 Made by **JKim Makes** for **Ball 4 oz regular-mouth Quilted Crystal jelly jars
 (SKU 1440080400)**. That's five jars across and eight from front to back.
 
+## Features
+
+- Jar-shaped cradles support the tapered glass body and wider lid. Each jar
+  lifts out on its own.
+- Continuous curved panels fill the space between the jar seats, with small
+  seams where the panels meet.
+- Panels from 1×1 through 3×3 join side to side and front to back with drop-in
+  keys. No glue, screws, or extra hardware.
+- Universal panels can grow with the collection; matching plugs close unused
+  sockets around the outside.
+- Removable panels come apart for cleaning and access to the drawer underneath.
+- The layout planner uses your drawer and printer dimensions to generate STLs,
+  connector counts, and an assembly map for the same Ball jar profile.
+- Print flat at 100% scale, with no supports.
+
 ## Big drawer, small printer
 
 The finished tray is larger than a home printer's bed, so it starts life as a
@@ -34,7 +49,10 @@ the unused sockets around the outside until they're needed.
 
 ## Make one for your drawer
 
-There are two ways to get started:
+The [Printables page](https://www.printables.com/model/1879923-modular-spice-drawer-organizer-ball-4-oz-jars)
+has the universal panel STLs, keys, plugs, and a one-jar fit trial.
+
+To copy the tested drawer or plan another arrangement:
 
 1. **Print the drawer in the photos.** Download the
    [tested 5×8 set](https://github.com/jkimmakes/spice-drawer-organizer/releases/download/v0.1.0/spice-drawer-tested-5x8-v0.1.0.zip)
@@ -69,6 +87,7 @@ behind the curves.
 
 ## License
 
-License selection is pending. Personal printing is the intended use of this
-release; commercial print and source-redistribution terms will be stated here
-when selected by the author.
+This project is licensed under [Creative Commons Attribution-NonCommercial
+4.0 International](https://creativecommons.org/licenses/by-nc/4.0/), matching
+the Printables release. Please credit JKim Makes; commercial use is not permitted
+under this license.
