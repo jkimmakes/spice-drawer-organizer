@@ -11,6 +11,9 @@ requires-python = ">=3.10"
 authors = [{name = "JKim Makes"}]
 dependencies = []
 
+[project.urls]
+Repository = "https://github.com/jkimmakes/spice-drawer-organizer"
+
 [project.optional-dependencies]
 build = ["numpy>=1.24"]
 
