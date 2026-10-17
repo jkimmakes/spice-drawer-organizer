@@ -1,0 +1,5 @@
+{
+  "drawer": {"width_mm": 310, "depth_mm": 390, "height_mm": 85},
+  "printer": {"bed_width_mm": 220, "bed_depth_mm": 220, "brim_mm": 3},
+  "layout": {"track": "drawer-specific", "clearance_mm": 2}
+}

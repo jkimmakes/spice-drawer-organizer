@@ -1,0 +1,6 @@
+{
+  "profile": "ball-4oz",
+  "drawer": {"width_mm": 379.2, "depth_mm": 502.7},
+  "printer": {"bed_width_mm": 250, "bed_depth_mm": 210, "brim_mm": 3},
+  "layout": {"columns": 5, "rows": 8, "track": "universal", "clearance_mm": 0.5}
+}

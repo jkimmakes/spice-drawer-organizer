@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spice-drawer-organizer"
+version = "0.1.0"
+description = "Plan and print a modular spice drawer with continuous curved jar cradles"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "JKim Makes"}]
+dependencies = []
+
+[project.optional-dependencies]
+build = ["numpy>=1.24"]
+
+[project.scripts]
+spice-drawer = "spice_drawer.cli:main"
+
+[tool.setuptools]
+packages = ["spice_drawer"]
+
+[tool.setuptools.package-data]
+spice_drawer = ["data/ball-4oz/*", "cad/*.scad"]

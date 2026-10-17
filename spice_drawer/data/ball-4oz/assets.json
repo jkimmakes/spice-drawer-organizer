@@ -1,0 +1,14 @@
+{
+  "profile": "ball-4oz",
+  "identity": "Ball 4 oz regular-mouth Quilted Crystal jelly jar, SKU 1440080400",
+  "surface": "User-tested R4 spline skin with R2 boundary reference",
+  "keys": {"key_x": "X3", "key_y": "Y4"},
+  "measured_mm": {"capped_length": 59, "glass_lip_underside": 38, "bottom_diameter": 60, "middle_diameter": 63, "upper_body_diameter": 66, "glass_lip_diameter": 70, "metal_rim_diameter": 73, "metal_band_diameter": 71},
+  "measurement_note": "Approximate printed-gauge and ruler measurements; foot rounding and lip heights include modeling assumptions.",
+  "files": {
+    "key_x.stl": "13719a19fcea21565ff2ad31227f14134c45e2fa88265e229fd24059229e3764",
+    "key_y.stl": "b259a7a609bb82a2c5819fa12c1a73551d1bec35a24604e427a63de4b13d385b",
+    "reference_r2_3x3.stl": "600ff19f2d862fc1203912d73fceb45d8f86ddfa97153a2a9d782e1fa94e98a5",
+    "surface_r4.npz": "d85a4408cb5f12b2e6fe561947349bd4967282a882a0fa1f59dbcbdb204ebd34"
+  }
+}
