@@ -1,5 +1,19 @@
 # Assembly and cleaning
 
+## Print settings
+
+Start with one panel and a key to check your printer and jars. Print flat at
+**100% scale**, with **supports off**. The example uses 0.30 mm layers, a
+0.20 mm first layer, two walls, 5% grid infill, four top / three bottom layers
+and a 3 mm brim. Slice for your own printer and filament.
+
+Print each panel file as many times as its quantity table says. Connector
+plates are an alternative to the individual key/plug quantities: print each
+plate once. Large generated sets may have several connector plates. The
+single-panel fit trial contains one cradle and four edge plugs.
+
+## Put the panels together
+
 ![Continuous panel lifted from the drawer](images/removable-panel.png)
 
 1. Place panels according to the generated assembly map. Row zero is at the
@@ -20,6 +34,8 @@ moving it; the joints are not a carrying handle for a loaded row. If a key
 binds, check its direction, brim and first-layer edges before applying force.
 
 ![Joining key and sockets](images/joining-key.png)
+
+## Take it apart for cleaning
 
 For cleaning, remove the jars and lift out the keys to separate the panels.
 The continuous curved surface keeps most debris above the tray, while the
