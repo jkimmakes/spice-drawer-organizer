@@ -1,0 +1,91 @@
+[
+  {
+    "batch": 1,
+    "file": "batch-01-of-04-8-labels.lbx",
+    "count": 8,
+    "length_mm": 285.96,
+    "labels": [
+      "Curry Powder",
+      "Turmeric",
+      "Cumin",
+      "Za’atar",
+      "White Pepper",
+      "Black Pepper",
+      "Salt",
+      "Whole Ancho Chile"
+    ],
+    "chain_printing": true,
+    "pause_to_cut": false,
+    "cut_guides": 9,
+    "outside_trim_mm": 3,
+    "copies": 1,
+    "special_tape_no_cut": false,
+    "mirror_printing": false
+  },
+  {
+    "batch": 2,
+    "file": "batch-02-of-04-8-labels.lbx",
+    "count": 8,
+    "length_mm": 285.96,
+    "labels": [
+      "Whole Guajillo Chile",
+      "Whole Chipotle Chile",
+      "Kashmiri Chile",
+      "Garam Masala",
+      "Black Cardamom Pods",
+      "Fenugreek Leaf",
+      "Yellow Mustard Seed",
+      "Whole Allspice"
+    ],
+    "chain_printing": true,
+    "pause_to_cut": false,
+    "cut_guides": 9,
+    "outside_trim_mm": 3,
+    "copies": 1,
+    "special_tape_no_cut": false,
+    "mirror_printing": false
+  },
+  {
+    "batch": 3,
+    "file": "batch-03-of-04-8-labels.lbx",
+    "count": 8,
+    "length_mm": 285.96,
+    "labels": [
+      "Rosemary Leaf",
+      "Dill Weed",
+      "Garlic Granules",
+      "Garlic Powder",
+      "Crushed Chile Flakes",
+      "Crushed Sage",
+      "Thyme Leaf",
+      "Smoked Paprika"
+    ],
+    "chain_printing": true,
+    "pause_to_cut": false,
+    "cut_guides": 9,
+    "outside_trim_mm": 3,
+    "copies": 1,
+    "special_tape_no_cut": false,
+    "mirror_printing": false
+  },
+  {
+    "batch": 4,
+    "file": "batch-04-of-04-5-labels.lbx",
+    "count": 5,
+    "length_mm": 180.98,
+    "labels": [
+      "Ground Coriander",
+      "Fennel Seed",
+      "Mexican Oregano",
+      "Onion Granules",
+      "Star Anise"
+    ],
+    "chain_printing": false,
+    "pause_to_cut": false,
+    "cut_guides": 6,
+    "outside_trim_mm": 3,
+    "copies": 1,
+    "special_tape_no_cut": false,
+    "mirror_printing": false
+  }
+]

@@ -70,6 +70,19 @@ queue. Print flat at **100% scale**, with **supports off**. The
 [printing and assembly guide](docs/assembly.md) has the settings and explains
 which way round the pieces go.
 
+## Label the jars
+
+The [label-printing guide](docs/label-printing.md) includes editable Brother
+P-touch templates for 35 × 18 mm labels in Baskerville SemiBold, plus compact
+batch files and the settings used to print them with less wasted tape.
+
+The [one-piece placement jig](docs/label-jig.md) provides a circular base and
+an open guide for putting each label at the same height. Print the
+[jig STL](accessories/label-jig/ball_4oz_label_jig.stl), lower a jar into the
+base, align its oval panel, and hold it steady while applying the label.
+
+![Circular base and label placement guide](docs/images/label-jig.png)
+
 ## A few things to measure
 
 The tray in the photos is **378.7 × 499.7 mm** (14.91 × 19.67 in). With the

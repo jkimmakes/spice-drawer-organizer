@@ -1,0 +1,513 @@
+{
+  "source": "Label designs and recorded fit measurements from the 2026-10-18 printing session",
+  "inventory_count": 29,
+  "remaining_count": 27,
+  "replacement_count": 2,
+  "label_size_mm": [
+    35,
+    18
+  ],
+  "print_area_mm": [
+    31.04,
+    15.8
+  ],
+  "labels": [
+    {
+      "inventory_name": "Curry powder",
+      "label": "Curry Powder",
+      "lines": [
+        "Curry",
+        "Powder"
+      ],
+      "file": "ready/curry-powder.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 20.21,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Turmeric",
+      "label": "Turmeric",
+      "lines": [
+        "Turmeric"
+      ],
+      "file": "ready/turmeric.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 25.01,
+      "ink_height_mm": 3.99,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Cumin",
+      "label": "Cumin",
+      "lines": [
+        "Cumin"
+      ],
+      "file": "ready/cumin.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 18.03,
+      "ink_height_mm": 3.99,
+      "fits": true,
+      "replace_previous_test": true
+    },
+    {
+      "inventory_name": "Za’atar",
+      "label": "Za’atar",
+      "lines": [
+        "Za’atar"
+      ],
+      "file": "ready/zaatar.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 18.98,
+      "ink_height_mm": 3.95,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "White pepper",
+      "label": "White Pepper",
+      "lines": [
+        "White",
+        "Pepper"
+      ],
+      "file": "ready/white-pepper.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 18.7,
+      "ink_height_mm": 10.7,
+      "fits": true,
+      "replace_previous_test": true
+    },
+    {
+      "inventory_name": "Black pepper",
+      "label": "Black Pepper",
+      "lines": [
+        "Black",
+        "Pepper"
+      ],
+      "file": "ready/black-pepper.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 18.7,
+      "ink_height_mm": 10.67,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Salt",
+      "label": "Salt",
+      "lines": [
+        "Salt"
+      ],
+      "file": "ready/salt.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 10.09,
+      "ink_height_mm": 3.95,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Ancho chile, whole",
+      "label": "Whole Ancho Chile",
+      "lines": [
+        "Whole",
+        "Ancho",
+        "Chile"
+      ],
+      "file": "ready/ancho-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 16.65,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Guajillo chile, whole",
+      "label": "Whole Guajillo Chile",
+      "lines": [
+        "Whole",
+        "Guajillo",
+        "Chile"
+      ],
+      "file": "ready/guajillo-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 21.06,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Chipotle chile, whole",
+      "label": "Whole Chipotle Chile",
+      "lines": [
+        "Whole",
+        "Chipotle",
+        "Chile"
+      ],
+      "file": "ready/chipotle-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 22.58,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Kashmiri chile",
+      "label": "Kashmiri Chile",
+      "lines": [
+        "Kashmiri",
+        "Chile"
+      ],
+      "file": "ready/kashmiri-chile.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 24.94,
+      "ink_height_mm": 9.47,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Garam masala",
+      "label": "Garam Masala",
+      "lines": [
+        "Garam",
+        "Masala"
+      ],
+      "file": "ready/garam-masala.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 19.12,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Black cardamom pods",
+      "label": "Black Cardamom Pods",
+      "lines": [
+        "Black",
+        "Cardamom",
+        "Pods"
+      ],
+      "file": "ready/black-cardamom-pods.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 30.13,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Fenugreek leaf",
+      "label": "Fenugreek Leaf",
+      "lines": [
+        "Fenugreek",
+        "Leaf"
+      ],
+      "file": "ready/fenugreek-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 27.48,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Yellow mustard seed",
+      "label": "Yellow Mustard Seed",
+      "lines": [
+        "Yellow",
+        "Mustard",
+        "Seed"
+      ],
+      "file": "ready/yellow-mustard-seed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 22.47,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Whole allspice",
+      "label": "Whole Allspice",
+      "lines": [
+        "Whole",
+        "Allspice"
+      ],
+      "file": "ready/whole-allspice.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 20.85,
+      "ink_height_mm": 10.67,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Rosemary leaf",
+      "label": "Rosemary Leaf",
+      "lines": [
+        "Rosemary",
+        "Leaf"
+      ],
+      "file": "ready/rosemary-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 26.85,
+      "ink_height_mm": 9.4,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Dill weed",
+      "label": "Dill Weed",
+      "lines": [
+        "Dill",
+        "Weed"
+      ],
+      "file": "ready/dill-weed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 14.6,
+      "ink_height_mm": 9.47,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Garlic granules",
+      "label": "Garlic Granules",
+      "lines": [
+        "Garlic",
+        "Granules"
+      ],
+      "file": "ready/garlic-granules.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 23.92,
+      "ink_height_mm": 9.47,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Garlic powder, source lot unknown",
+      "label": "Garlic Powder",
+      "lines": [
+        "Garlic",
+        "Powder"
+      ],
+      "file": "ready/garlic-powder.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 20.21,
+      "ink_height_mm": 9.47,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Crushed chile flakes",
+      "label": "Crushed Chile Flakes",
+      "lines": [
+        "Crushed",
+        "Chile",
+        "Flakes"
+      ],
+      "file": "ready/crushed-chile-flakes.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 22.26,
+      "ink_height_mm": 14.92,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Crushed sage",
+      "label": "Crushed Sage",
+      "lines": [
+        "Crushed",
+        "Sage"
+      ],
+      "file": "ready/crushed-sage.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 22.26,
+      "ink_height_mm": 10.7,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Thyme leaf",
+      "label": "Thyme Leaf",
+      "lines": [
+        "Thyme",
+        "Leaf"
+      ],
+      "file": "ready/thyme-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 18.52,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Smoked paprika",
+      "label": "Smoked Paprika",
+      "lines": [
+        "Smoked",
+        "Paprika"
+      ],
+      "file": "ready/smoked-paprika.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 21.34,
+      "ink_height_mm": 10.67,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Ground coriander",
+      "label": "Ground Coriander",
+      "lines": [
+        "Ground",
+        "Coriander"
+      ],
+      "file": "ready/ground-coriander.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 26.78,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Fennel seed",
+      "label": "Fennel Seed",
+      "lines": [
+        "Fennel",
+        "Seed"
+      ],
+      "file": "ready/fennel-seed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 17.53,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Mexican oregano",
+      "label": "Mexican Oregano",
+      "lines": [
+        "Mexican",
+        "Oregano"
+      ],
+      "file": "ready/mexican-oregano.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 22.72,
+      "ink_height_mm": 10.74,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Onion granules",
+      "label": "Onion Granules",
+      "lines": [
+        "Onion",
+        "Granules"
+      ],
+      "file": "ready/onion-granules.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 23.92,
+      "ink_height_mm": 9.47,
+      "fits": true,
+      "replace_previous_test": false
+    },
+    {
+      "inventory_name": "Star anise",
+      "label": "Star Anise",
+      "lines": [
+        "Star",
+        "Anise"
+      ],
+      "file": "ready/star-anise.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing": -30,
+      "shrink": false,
+      "width_mm": 14.5,
+      "ink_height_mm": 9.43,
+      "fits": true,
+      "replace_previous_test": false
+    }
+  ],
+  "saved_date": "2026-10-18",
+  "measurement_note": "Recorded fit measurements from the design pass; new names require a fresh fit check in P-touch Editor with automatic shrinking disabled."
+}

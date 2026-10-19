@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "saved_date": "2026-10-18",
+  "printer": {
+    "model": "Brother PT-D410",
+    "connection": "USB",
+    "tape_width_mm": 18,
+    "tape_type": "laminated",
+    "ink": "black",
+    "tape_background": "white",
+    "tested_editor": "P-touch Editor 5.3.24 for macOS"
+  },
+  "label": {
+    "size_mm": [
+      35,
+      18
+    ],
+    "border": false,
+    "printed_oval": false,
+    "target_oval_area_mm": [
+      50.8,
+      25.4
+    ],
+    "font_family": "Baskerville",
+    "font_face": "SemiBold",
+    "native_font_weight": 600,
+    "font_size_pt": 16,
+    "italic": false,
+    "horizontal_alignment": "CENTER",
+    "vertical_alignment": "CENTER",
+    "line_space_native": -30,
+    "character_spacing_native": 0,
+    "auto_shrink": false,
+    "automatic_line_feed": false,
+    "text_frame_mm": [
+      31.04,
+      15.8
+    ]
+  },
+  "native_layout_pt": {
+    "paper_width": 51.2,
+    "single_label_paper_height": 99.2,
+    "orientation": "landscape",
+    "autoLength": false,
+    "paper_marginLeft": 3.2,
+    "paper_marginTop": 5.6,
+    "paper_marginRight": 3.2,
+    "paper_marginBottom": 5.6,
+    "single_text_frame": {
+      "x": 5.6,
+      "y": 3.2,
+      "width": 88,
+      "height": 44.8
+    }
+  },
+  "compact_batch": {
+    "max_labels_per_job": 8,
+    "printer_max_job_length_mm": 300,
+    "label_pitch_pt": 99.2,
+    "outside_trim_each_end_mm": 3,
+    "length_formula_pt": "count * 99.2 + 2 * 3 * 72 / 25.4",
+    "text_x_formula_pt": "3 * 72 / 25.4 + index * 99.2 + 5.6",
+    "cut_guide": {
+      "text": "|",
+      "font_family": "Arial",
+      "font_size_pt": 4,
+      "weight": 400,
+      "frame_width_pt": 3.2,
+      "frame_height_pt": 4,
+      "top_y_pt": 3.2,
+      "bottom_y_pt": 44,
+      "x_formula_pt": "3 * 72 / 25.4 + boundary * 99.2 - 1.6",
+      "boundary_indices": "0 through count, inclusive"
+    }
+  },
+  "print_dialog": {
+    "copies": 1,
+    "pause_to_cut": false,
+    "chain_printing_intermediate_jobs": true,
+    "chain_printing_final_or_only_job": false,
+    "special_tape_no_cut": false,
+    "mirror_printing": false,
+    "storage_note": "Cut options are print-dialog choices. They are recorded here and in the batch manifest; do not assume they are embedded in LBX files."
+  },
+  "templates": {
+    "one_line": "ready/cumin.lbx",
+    "two_lines": "ready/ground-coriander.lbx",
+    "three_lines": "ready/black-cardamom-pods.lbx"
+  },
+  "inventory_snapshot_count": 29
+}

@@ -1,0 +1,93 @@
+{
+  "mesh": {
+    "triangles": 4542,
+    "components": 1,
+    "closed": true,
+    "consistent_winding": true,
+    "bounds_mm": [
+      [
+        -38.0,
+        38.0
+      ],
+      [
+        -38.0,
+        38.0
+      ],
+      [
+        0.0,
+        32.5
+      ]
+    ],
+    "size_mm": [
+      76.0,
+      76.0,
+      32.5
+    ],
+    "solid_volume_cm3": 13.872
+  },
+  "source_sha256": "fe031c9f884136b11f1e5f47a6b5c713d422429852676cf2b04af3d5a6b20648",
+  "stl_sha256": "34eb66ad446f3ecbc396f3fa83e52168c3851d5e7e3be0ee3a53d676400a0b9f",
+  "clearances": [
+    {
+      "check": "jar",
+      "capped_height_mm": 58,
+      "result": "empty intersection"
+    },
+    {
+      "check": "insertion",
+      "capped_height_mm": 58,
+      "result": "empty intersection"
+    },
+    {
+      "check": "label_removal",
+      "capped_height_mm": 58,
+      "result": "empty intersection"
+    },
+    {
+      "check": "jar",
+      "capped_height_mm": 59,
+      "result": "empty intersection"
+    },
+    {
+      "check": "insertion",
+      "capped_height_mm": 59,
+      "result": "empty intersection"
+    },
+    {
+      "check": "label_removal",
+      "capped_height_mm": 59,
+      "result": "empty intersection"
+    },
+    {
+      "check": "jar",
+      "capped_height_mm": 60,
+      "result": "empty intersection"
+    },
+    {
+      "check": "insertion",
+      "capped_height_mm": 60,
+      "result": "empty intersection"
+    },
+    {
+      "check": "label_removal",
+      "capped_height_mm": 60,
+      "result": "empty intersection"
+    }
+  ],
+  "label_size_mm": [
+    35,
+    18
+  ],
+  "label_edges_above_jar_bottom_mm": [
+    9.5,
+    27.5
+  ],
+  "label_center_above_jar_bottom_mm": 18.5,
+  "physical_testing": "Awaiting a fit test of the cleaned-up print",
+  "notes": [
+    "Seating check lifts the jar 0.02 mm to exclude intended floor contact.",
+    "Jar insertion samples lifts of 1, 5, 15, 30, 60 and 90 mm.",
+    "A 0.25 mm thick label envelope is checked at lifts of 0, 1, 5, 10, 15, 30 and 60 mm.",
+    "Reference omits quilting and the precise molded oval; align the jar visually and hold it during application."
+  ]
+}

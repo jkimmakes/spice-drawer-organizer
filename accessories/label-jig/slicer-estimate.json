@@ -1,0 +1,22 @@
+{
+  "estimated_time": "1h 2m 15s",
+  "filament_g": 14.53,
+  "filament_mm": 4871.18,
+  "settings": {
+    "printer": "MK3S",
+    "material": "PLA",
+    "nozzle_diameter_mm": 0.4,
+    "layer_height_mm": 0.2,
+    "first_layer_height_mm": 0.2,
+    "perimeters": 3,
+    "infill_percent": 15,
+    "top_layers": 4,
+    "bottom_layers": 4,
+    "supports": false,
+    "brim_mm": 0,
+    "skirt_loops": 0
+  },
+  "profile_basis": "Previously successful MK3S PLA profile; overridden settings listed above.",
+  "slicer_version": "PrusaSlicer 2.9.6",
+  "gcode_sent_to_printer": false
+}
