@@ -1,0 +1,202 @@
+{
+  "font" : "Baskerville-SemiBold",
+  "font_size_pt" : 16,
+  "frame_height_mm" : 15.800000000000001,
+  "frame_width_mm" : 31.039999999999999,
+  "labels" : [
+    {
+      "file" : "ready\/chile-molido.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Chile Molido",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Chile",
+        "Molido"
+      ],
+      "measured_line_widths_mm" : [
+        13.879600694444443,
+        18.768880208333332
+      ],
+      "slug" : "chile-molido",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/lajiao-mian.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Lajiao Mian",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Lajiao",
+        "Mian"
+      ],
+      "measured_line_widths_mm" : [
+        16.475824652777774,
+        13.650846354166667
+      ],
+      "slug" : "lajiao-mian",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/cinnamon.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Cinnamon",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Cinnamon"
+      ],
+      "measured_line_widths_mm" : [
+        27.596592881944442
+      ],
+      "slug" : "cinnamon",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/sumac.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Sumac",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Sumac"
+      ],
+      "measured_line_widths_mm" : [
+        17.768424479166665
+      ],
+      "slug" : "sumac",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/oregano.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Oregano",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Oregano"
+      ],
+      "measured_line_widths_mm" : [
+        22.550217013888886
+      ],
+      "slug" : "oregano",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/bay-leaves.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Bay Leaves",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Bay",
+        "Leaves"
+      ],
+      "measured_line_widths_mm" : [
+        9.6545355902777779,
+        17.950325520833331
+      ],
+      "slug" : "bay-leaves",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/baharat.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "7 Spice (Baharat)",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "7 Spice",
+        "(Baharat)"
+      ],
+      "measured_line_widths_mm" : [
+        18.289322916666666,
+        23.762890624999997
+      ],
+      "slug" : "baharat",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/green-sichuan-peppercorn.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Green Sichuan Peppercorn",
+      "line_spacing_native" : -40,
+      "lines" : [
+        "Green",
+        "Sichuan",
+        "Peppercorn"
+      ],
+      "measured_line_widths_mm" : [
+        15.932877604166666,
+        20.827669270833333,
+        30.148719618055551
+      ],
+      "slug" : "green-sichuan-peppercorn",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/cumin-seed.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Cumin Seed",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Cumin",
+        "Seed"
+      ],
+      "measured_line_widths_mm" : [
+        18.00544704861111,
+        12.39958767361111
+      ],
+      "slug" : "cumin-seed",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/basil.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "Basil",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "Basil"
+      ],
+      "measured_line_widths_mm" : [
+        12.997656249999999
+      ],
+      "slug" : "basil",
+      "vertical_fit" : "Checked in P-touch Editor for the three-line layout; other layouts use at most two lines"
+    },
+    {
+      "file" : "ready\/msg.lbx",
+      "fits_width_at_16_pt" : true,
+      "font" : "Baskerville SemiBold",
+      "font_size_pt" : 16,
+      "label" : "MSG",
+      "line_spacing_native" : -30,
+      "lines" : [
+        "MSG"
+      ],
+      "measured_line_widths_mm" : [
+        13.058289930555555
+      ],
+      "slug" : "msg",
+      "vertical_fit" : "Single-line layout checked in P-touch Editor before printing"
+    }
+  ],
+  "print_date" : "2026-10-20",
+  "printed" : true,
+  "updated_date" : "2026-10-21",
+  "width_measurement" : "Native CoreText typographic advance"
+}

@@ -1,0 +1,484 @@
+{
+  "updated_date": "2026-10-21",
+  "template_count": 40,
+  "labels": [
+    {
+      "label": "Curry Powder",
+      "lines": [
+        "Curry",
+        "Powder"
+      ],
+      "file": "ready/curry-powder.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Turmeric",
+      "lines": [
+        "Turmeric"
+      ],
+      "file": "ready/turmeric.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Cumin",
+      "lines": [
+        "Cumin"
+      ],
+      "file": "ready/cumin.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Za’atar",
+      "lines": [
+        "Za’atar"
+      ],
+      "file": "ready/zaatar.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "White Pepper",
+      "lines": [
+        "White",
+        "Pepper"
+      ],
+      "file": "ready/white-pepper.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Black Pepper",
+      "lines": [
+        "Black",
+        "Pepper"
+      ],
+      "file": "ready/black-pepper.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Salt",
+      "lines": [
+        "Salt"
+      ],
+      "file": "ready/salt.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Whole Ancho Chile",
+      "lines": [
+        "Whole",
+        "Ancho",
+        "Chile"
+      ],
+      "file": "ready/ancho-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Whole Guajillo Chile",
+      "lines": [
+        "Whole",
+        "Guajillo",
+        "Chile"
+      ],
+      "file": "ready/guajillo-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Whole Chipotle Chile",
+      "lines": [
+        "Whole",
+        "Chipotle",
+        "Chile"
+      ],
+      "file": "ready/chipotle-chile-whole.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Kashmiri Chile",
+      "lines": [
+        "Kashmiri",
+        "Chile"
+      ],
+      "file": "ready/kashmiri-chile.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Garam Masala",
+      "lines": [
+        "Garam",
+        "Masala"
+      ],
+      "file": "ready/garam-masala.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Black Cardamom Pods",
+      "lines": [
+        "Black",
+        "Cardamom",
+        "Pods"
+      ],
+      "file": "ready/black-cardamom-pods.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Fenugreek Leaf",
+      "lines": [
+        "Fenugreek",
+        "Leaf"
+      ],
+      "file": "ready/fenugreek-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Yellow Mustard Seed",
+      "lines": [
+        "Yellow",
+        "Mustard",
+        "Seed"
+      ],
+      "file": "ready/yellow-mustard-seed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Whole Allspice",
+      "lines": [
+        "Whole",
+        "Allspice"
+      ],
+      "file": "ready/whole-allspice.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Rosemary Leaf",
+      "lines": [
+        "Rosemary",
+        "Leaf"
+      ],
+      "file": "ready/rosemary-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Dill Weed",
+      "lines": [
+        "Dill",
+        "Weed"
+      ],
+      "file": "ready/dill-weed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Garlic Granules",
+      "lines": [
+        "Garlic",
+        "Granules"
+      ],
+      "file": "ready/garlic-granules.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Garlic Powder",
+      "lines": [
+        "Garlic",
+        "Powder"
+      ],
+      "file": "ready/garlic-powder.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Crushed Chile Flakes",
+      "lines": [
+        "Crushed",
+        "Chile",
+        "Flakes"
+      ],
+      "file": "ready/crushed-chile-flakes.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Crushed Sage",
+      "lines": [
+        "Crushed",
+        "Sage"
+      ],
+      "file": "ready/crushed-sage.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Thyme Leaf",
+      "lines": [
+        "Thyme",
+        "Leaf"
+      ],
+      "file": "ready/thyme-leaf.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Smoked Paprika",
+      "lines": [
+        "Smoked",
+        "Paprika"
+      ],
+      "file": "ready/smoked-paprika.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Ground Coriander",
+      "lines": [
+        "Ground",
+        "Coriander"
+      ],
+      "file": "ready/ground-coriander.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Fennel Seed",
+      "lines": [
+        "Fennel",
+        "Seed"
+      ],
+      "file": "ready/fennel-seed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Mexican Oregano",
+      "lines": [
+        "Mexican",
+        "Oregano"
+      ],
+      "file": "ready/mexican-oregano.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Onion Granules",
+      "lines": [
+        "Onion",
+        "Granules"
+      ],
+      "file": "ready/onion-granules.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Star Anise",
+      "lines": [
+        "Star",
+        "Anise"
+      ],
+      "file": "ready/star-anise.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check.json"
+    },
+    {
+      "label": "Chile Molido",
+      "lines": [
+        "Chile",
+        "Molido"
+      ],
+      "file": "ready/chile-molido.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Lajiao Mian",
+      "lines": [
+        "Lajiao",
+        "Mian"
+      ],
+      "file": "ready/lajiao-mian.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Cinnamon",
+      "lines": [
+        "Cinnamon"
+      ],
+      "file": "ready/cinnamon.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Sumac",
+      "lines": [
+        "Sumac"
+      ],
+      "file": "ready/sumac.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Oregano",
+      "lines": [
+        "Oregano"
+      ],
+      "file": "ready/oregano.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Bay Leaves",
+      "lines": [
+        "Bay",
+        "Leaves"
+      ],
+      "file": "ready/bay-leaves.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "7 Spice (Baharat)",
+      "lines": [
+        "7 Spice",
+        "(Baharat)"
+      ],
+      "file": "ready/baharat.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Green Sichuan Peppercorn",
+      "lines": [
+        "Green",
+        "Sichuan",
+        "Peppercorn"
+      ],
+      "file": "ready/green-sichuan-peppercorn.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -40,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Cumin Seed",
+      "lines": [
+        "Cumin",
+        "Seed"
+      ],
+      "file": "ready/cumin-seed.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "Basil",
+      "lines": [
+        "Basil"
+      ],
+      "file": "ready/basil.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    },
+    {
+      "label": "MSG",
+      "lines": [
+        "MSG"
+      ],
+      "file": "ready/msg.lbx",
+      "font": "Baskerville SemiBold",
+      "font_size_pt": 16,
+      "line_spacing_native": -30,
+      "fit_record": "fit-check-additions-2026-10-20.json"
+    }
+  ]
+}

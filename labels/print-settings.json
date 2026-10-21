@@ -35,7 +35,10 @@
     "text_frame_mm": [
       31.04,
       15.8
-    ]
+    ],
+    "line_space_overrides_native": {
+      "ready/green-sichuan-peppercorn.lbx": -40
+    }
   },
   "native_layout_pt": {
     "paper_width": 51.2,
@@ -87,5 +90,8 @@
     "two_lines": "ready/ground-coriander.lbx",
     "three_lines": "ready/black-cardamom-pods.lbx"
   },
-  "inventory_snapshot_count": 29
+  "inventory_snapshot_count": 29,
+  "updated_date": "2026-10-21",
+  "template_count": 40,
+  "catalog": "catalog.json"
 }

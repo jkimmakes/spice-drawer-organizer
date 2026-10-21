@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-10-20",
+    "file": "compact-batches/additions-2026-10-20/new-spices-1-of-2-5-labels.lbx",
+    "copies": 1,
+    "labels": [
+      "Chile Molido",
+      "Lajiao Mian",
+      "Cinnamon",
+      "Sumac",
+      "Oregano"
+    ],
+    "chain_printing": true,
+    "completion_evidence": "P-touch Editor returned from Printing to idle without a reported error"
+  },
+  {
+    "date": "2026-10-20",
+    "file": "compact-batches/additions-2026-10-20/new-spices-2-of-2-5-labels.lbx",
+    "copies": 1,
+    "labels": [
+      "Bay Leaves",
+      "7 Spice (Baharat)",
+      "Green Sichuan Peppercorn",
+      "Cumin Seed",
+      "Basil"
+    ],
+    "chain_printing": false,
+    "completion_evidence": "P-touch Editor returned from Printing to idle without a reported error"
+  },
+  {
+    "date": "2026-10-20",
+    "file": "ready/msg.lbx",
+    "copies": 1,
+    "labels": [
+      "MSG"
+    ],
+    "chain_printing": false,
+    "completion_evidence": "P-touch Editor returned to idle without a reported error after printing one copy"
+  }
+]

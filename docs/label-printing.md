@@ -1,24 +1,31 @@
 # Print the spice labels
 
 The labels use **Baskerville SemiBold, 16 pt**, centered on **35 × 18 mm
-rectangles with no border**. This style was printed for the 29-spice set on
-2026-10-18 with a Brother PT-D410 and 18 mm laminated tape. Compact batches
+rectangles with no border**. The library contains **40 editable labels**:
+the original 29-spice set printed on 2026-10-18 and 11 additions printed on
+2026-10-20, including MSG. Printing used a Brother PT-D410 and 18 mm laminated tape. Compact batches
 put the labels beside one another on continuous tape, reducing the feed
 allowance between separate print jobs.
 
-![The 29 spice-label designs](../labels/all-labels-preview.png)
+![The original 29 spice-label designs](../labels/all-labels-preview.png)
 
 ## Files and settings
 
-- [Individual labels](../labels/ready/): 29 editable P-touch Editor `.lbx`
-  files, also usable as templates for new names.
-- [Compact batches](../labels/compact-batches/): four jobs, with a
+- [Individual labels](../labels/ready/): 40 editable P-touch Editor `.lbx`
+  files, also usable as templates for new names. The
+  [catalog](../labels/catalog.json) lists all names and line breaks.
+- [Original compact batches](../labels/compact-batches/): four jobs, with a
   [manifest](../labels/compact-batches/batch-manifest.json) recording their
   contents, order and cut options.
+- [Additional compact batches](../labels/compact-batches/additions-2026-10-20/):
+  two five-label jobs, with a
+  [manifest](../labels/compact-batches/additions-2026-10-20/batch-manifest.json).
 - [Print settings](../labels/print-settings.json): dimensions, typography,
   native placement coordinates and print-dialog choices.
 - [Recorded fit checks](../labels/fit-check.json): names, deliberate line
-  breaks and measured fit at the shared font size.
+  breaks and measured fit for the original set. The
+  [additional fit checks](../labels/fit-check-additions-2026-10-20.json)
+  cover the 11 later labels, including MSG.
 
 | Setting | Value |
 | --- | --- |
@@ -30,7 +37,7 @@ allowance between separate print jobs.
 | Typeface | Baskerville SemiBold, 16 pt; native weight 600 |
 | Alignment | Centered horizontally and vertically |
 | Text frame | Approximately 31.04 × 15.8 mm |
-| Line / character spacing | Native line spacing `-30`; character spacing `0` |
+| Line / character spacing | Native line spacing `-30` by default; character spacing `0` |
 | Automatic shrinking / wrapping | Off; explicit line breaks |
 | Margin displayed in Editor | 2 mm |
 
@@ -39,10 +46,16 @@ The labels fit within the jars' approximately 2 × 1 in oval panels. The
 on the computer; the font itself is not included. Check for font substitution
 when opening the templates on another system.
 
-All 29 names passed the recorded fit checks at 16 pt. The three-line
+The original 29 names passed the recorded fit checks at 16 pt. The three-line
 Black / Cardamom / Pods layout measured approximately 30.13 mm wide and
 14.92 mm in ink height. Check new names individually before printing; keep
 the shared font size and adjust the wording or line breaks as needed.
+
+The 11 additions also retain 16 pt and fit the saved text width. Green /
+Sichuan / Peppercorn uses slightly tighter native line spacing, **`-40`**,
+to keep the descenders inside the frame. That exception is saved in its
+individual file, compact batch and print settings. The other labels use
+`-30`. The new layouts were inspected in P-touch Editor before printing.
 
 ## Add or reprint one spice
 
@@ -94,12 +107,41 @@ Cut options are **Print-dialog choices**. Check them each time; the saved
 The printer can switch off while idle. If Editor reports that it cannot
 communicate, wake the LCD before retrying and check the USB data connection.
 
+The original 29-label run:
+
 | Job | File | Labels | Editor length | Chain Printing |
 | --- | --- | ---: | ---: | --- |
 | 1 | [Batch 1](../labels/compact-batches/batch-01-of-04-8-labels.lbx) | 8 | 286 mm | On |
 | 2 | [Batch 2](../labels/compact-batches/batch-02-of-04-8-labels.lbx) | 8 | 286 mm | On |
 | 3 | [Batch 3](../labels/compact-batches/batch-03-of-04-8-labels.lbx) | 8 | 286 mm | On |
 | 4 | [Batch 4](../labels/compact-batches/batch-04-of-04-5-labels.lbx) | 5 | 181 mm | **Off** |
+
+## Additional labels printed on 2026-10-20
+
+| Label | Saved line breaks |
+| --- | --- |
+| Chile Molido | Chile / Molido |
+| Lajiao Mian | Lajiao / Mian |
+| Cinnamon | Cinnamon |
+| Sumac | Sumac |
+| Oregano | Oregano |
+| Bay Leaves | Bay / Leaves |
+| 7 Spice (Baharat) | 7 Spice / (Baharat) |
+| Green Sichuan Peppercorn | Green / Sichuan / Peppercorn |
+| Cumin Seed | Cumin / Seed |
+| Basil | Basil |
+| MSG | MSG |
+
+The first ten were printed as two compact jobs:
+
+| Job | File | Labels | Editor length | Chain Printing |
+| --- | --- | --- | ---: | --- |
+| 1 | [Additional batch 1](../labels/compact-batches/additions-2026-10-20/new-spices-1-of-2-5-labels.lbx) | Chile Molido through Oregano | 181 mm | On |
+| 2 | [Additional batch 2](../labels/compact-batches/additions-2026-10-20/new-spices-2-of-2-5-labels.lbx) | Bay Leaves through Basil | 181 mm | **Off** |
+
+[MSG](../labels/ready/msg.lbx) was printed separately, one copy with Chain
+Printing off. The [print history](../labels/print-history-additions-2026-10-20.json)
+records both completed batch jobs and that single-label print.
 
 ## Brother references
 
